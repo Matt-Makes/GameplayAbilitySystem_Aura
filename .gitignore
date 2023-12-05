@@ -17,6 +17,7 @@ Build
 *.opensdf
 *.opendb
 *.sdf
+*.vsconfig
 *.sln
 *.suo
 *.xcodeproj
