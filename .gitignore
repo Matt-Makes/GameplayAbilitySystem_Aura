@@ -1,3 +1,10 @@
+
+# Rider
+.idea/
+Plugins/Developer/RiderLink
+
+
+
 Binaries
 DerivedDataCache
 Intermediate
